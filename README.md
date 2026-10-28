@@ -28,4 +28,4 @@ Desenvolvedor focado em software nativo, segurança de aplicações e infraestru
 
 ## Contact
 
-[Instagram — @dsluq](https://www.instagram.com/dsluq/)
+[Instagram — @dsluq](https://www.instagram.com/luqpc/)
