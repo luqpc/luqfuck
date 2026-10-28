@@ -1,16 +1,31 @@
-## Hi there 👋
+# Luq
 
-<!--
-**luqfuck/luqfuck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software & Security Developer**
 
-Here are some ideas to get you started:
+I build reliable software across native Windows applications and modern web infrastructure. My main tools are C++, C#, JavaScript, and Cloudflare's edge platform.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Desenvolvedor focado em software nativo, segurança de aplicações e infraestrutura web.
+
+## About me
+
+- Native software and Windows development
+- Backend architecture, APIs, authentication, and real-time systems
+- Security-minded engineering with a focus on performance and reliability
+- Continuous learning through private research and commercial projects
+
+## Technologies
+
+`C` · `C++` · `C#` · `JavaScript` · `HTML` · `CSS` · `Windows` · `Linux` · `Cloudflare Workers` · `WebSockets`
+
+## Engineering principles
+
+- Security and privacy by design
+- Reproducible builds and measurable testing
+- Clean interfaces and maintainable architecture
+- Responsible handling of proprietary and client material
+
+> Much of my work is private or commercial. This profile contains only material intentionally prepared for public sharing.
+
+## Contact
+
+[Instagram — @dsluq](https://www.instagram.com/dsluq/)
